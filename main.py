@@ -6,3 +6,4 @@ x = hello_world('Maciek')
 print(x)
 
 # Adding a comment so i can push
+# another comment
